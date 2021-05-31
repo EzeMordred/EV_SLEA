@@ -1,2 +1,4 @@
 Ezequiel Andrés
 Sánchez López
+java
+oracle
